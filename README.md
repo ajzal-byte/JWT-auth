@@ -7,7 +7,7 @@ This repository contains code for implementing JSON Web Token (JWT) authenticati
 To run the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine:
-```javascript
+```
 git clone https://github.com/ajzal-byte/JWT-auth.git
 ```
 
